@@ -1,0 +1,11 @@
+.row{
+    margin: 1.8em 0 ;
+}
+.badge {
+    margin: 2px;
+    font-size: 150%;
+}
+label{
+    font-size: 150%;
+    color: white;
+}
